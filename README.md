@@ -3,6 +3,8 @@
 
 Senior Technical Program Manager | Cloud Infrastructure | AI Platforms
 
+Execution-focused TPM bridging infrastructure, AI platforms, and real-world delivery.
+
 I deliver large-scale infrastructure and AI-enabled systems across cloud and hybrid environments.
 
 ## Focus
@@ -12,7 +14,7 @@ I deliver large-scale infrastructure and AI-enabled systems across cloud and hyb
 - Systems Architecture & Integration
 
 ## Selected Work
-- AI-driven RAG pipeline (LLM + vector search)
+- AI-driven RAG pipeline (LLM + vector search, document ingestion, retrieval tuning)
 - OpenShift deployments on private cloud infrastructure
 - High-availability ingress and load balancing design
 
