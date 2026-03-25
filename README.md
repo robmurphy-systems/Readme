@@ -14,9 +14,25 @@ I deliver large-scale infrastructure and AI-enabled systems across cloud and hyb
 - Systems Architecture & Integration
 
 ## Selected Work
+- Introduction to Python
+- Data Manipulation
+- Exploratory Data Analysis
+- Analyzing Text Data
+- Linear Regression
+- Decision Trees
+- K-Mean Clustering
+- Bagging
+- Boosting
+- Model Tuning
+- Optimizing Neural Networks
+- Word Embedddings
+- Attention Mechanism and Transformers
+- LLM's and Prompt Engineering
 - AI-driven RAG pipeline (LLM + vector search, document ingestion, retrieval tuning)
 - OpenShift deployments on private cloud infrastructure
 - High-availability ingress and load balancing design
+- Image Processing
+- Convolution Networks
 
 ## Approach
 Execution over noise. Systems over silos. Delivery over theory.
